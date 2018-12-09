@@ -1,0 +1,14 @@
+D:\DotNet Core Project\Friends.Api\bin\Debug\netcoreapp2.2\FriendsApp.deps.json
+D:\DotNet Core Project\Friends.Api\bin\Debug\netcoreapp2.2\FriendsApp.runtimeconfig.json
+D:\DotNet Core Project\Friends.Api\bin\Debug\netcoreapp2.2\FriendsApp.runtimeconfig.dev.json
+D:\DotNet Core Project\Friends.Api\bin\Debug\netcoreapp2.2\FriendsApp.dll
+D:\DotNet Core Project\Friends.Api\bin\Debug\netcoreapp2.2\FriendsApp.pdb
+D:\DotNet Core Project\Friends.Api\obj\Debug\netcoreapp2.2\FriendsApp.csprojAssemblyReference.cache
+D:\DotNet Core Project\Friends.Api\obj\Debug\netcoreapp2.2\FriendsApp.csproj.CoreCompileInputs.cache
+D:\DotNet Core Project\Friends.Api\obj\Debug\netcoreapp2.2\FriendsApp.RazorAssemblyInfo.cache
+D:\DotNet Core Project\Friends.Api\obj\Debug\netcoreapp2.2\FriendsApp.RazorAssemblyInfo.cs
+D:\DotNet Core Project\Friends.Api\obj\Debug\netcoreapp2.2\FriendsApp.AssemblyInfoInputs.cache
+D:\DotNet Core Project\Friends.Api\obj\Debug\netcoreapp2.2\FriendsApp.AssemblyInfo.cs
+D:\DotNet Core Project\Friends.Api\obj\Debug\netcoreapp2.2\FriendsApp.RazorTargetAssemblyInfo.cache
+D:\DotNet Core Project\Friends.Api\obj\Debug\netcoreapp2.2\FriendsApp.dll
+D:\DotNet Core Project\Friends.Api\obj\Debug\netcoreapp2.2\FriendsApp.pdb
